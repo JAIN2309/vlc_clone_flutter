@@ -1,5 +1,8 @@
 # VividPlay v4
 
+[![Live Demo](https://img.shields.io/badge/demo-live-blue.svg)](https://JAIN2309.github.io/vlc_clone_flutter/)
+
+
 A Flutter-based media player with **background audio, SAF file picking, playlist management, and polished UI**.  
 
 This version is runnable on **Android (v2 embedding)** out-of-the-box and also supports Web for file picking.
